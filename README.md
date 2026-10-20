@@ -1,7 +1,7 @@
 # Hi, I'm Victor
 
 Senior backend engineer with 10+ years of experience building distributed systems on the JVM
-(Java, Kotlin, Spring Boot) and AWS, and 1.5+ years of shipping LLM agents, RAG pipelines and
+(Java, Kotlin, Spring Boot) and AWS, and 2 years of shipping LLM agents, RAG pipelines and
 chatbots to production. I speak English and German (C1), and Russian is my native language.
 
 ## About my work
