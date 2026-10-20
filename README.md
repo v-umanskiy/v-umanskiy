@@ -4,8 +4,6 @@ Senior backend engineer with 10+ years of experience building distributed system
 (Java, Kotlin, Spring Boot) and AWS, and 1.5+ years of shipping LLM agents, RAG pipelines and
 chatbots to production. I speak English and German (C1), and Russian is my native language.
 
-I'm looking for remote senior backend roles, ideally where distributed systems meet applied AI.
-
 ## About my work
 
 **My main projects live in my employers' private GitHub organizations, so I can't show them here.**
@@ -13,7 +11,7 @@ Over the years they covered high-load backend services, payment provider integra
 regulatory reporting and internal AI assistants.
 
 What you find on this profile are **a few smaller examples** I built on my own and for freelance
-clients. They are far less complex than production systems at scale, but they are real, they run in
+clients. They are less complex than production systems at scale, but they are real, they run in
 production, and they show how I design, test and operate things end to end.
 
 ## Selected projects
